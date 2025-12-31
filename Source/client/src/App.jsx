@@ -4,6 +4,7 @@ import Dashboard from './components/Dashboard/Dashboard'
 function App() {
   return (
     <>
+        <WelcomeScreen></WelcomeScreen>
         <Dashboard></Dashboard>
     </>
   )
